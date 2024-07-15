@@ -1,0 +1,77 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Beginner Yoga",
+        "description": "A perfect start for those new to yoga. Learn the basic poses and breathing techniques.",
+        "level": "Beginner",
+        "duration": "60 minutes",
+        "schedule": [
+          {
+            "day": "Monday",
+            "time": "08:00 AM - 09:00 AM"
+          },
+          {
+            "day": "Wednesday",
+            "time": "06:00 PM - 07:00 PM"
+          }
+        ],
+        "instructor": "Jane Doe"
+      },
+      {
+        "id": 2,
+        "title": "Hatha Yoga",
+        "description": "A gentle introduction to the most basic yoga postures. Great for building strength and flexibility.",
+        "level": "All Levels",
+        "duration": "75 minutes",
+        "schedule": [
+          {
+            "day": "Tuesday",
+            "time": "10:00 AM - 11:15 AM"
+          },
+          {
+            "day": "Thursday",
+            "time": "05:00 PM - 06:15 PM"
+          }
+        ],
+        "instructor": "John Smith"
+      },
+      {
+        "id": 3,
+        "title": "Vinyasa Flow",
+        "description": "A dynamic class that links movement and breath together in a dance-like way.",
+        "level": "Intermediate",
+        "duration": "60 minutes",
+        "schedule": [
+          {
+            "day": "Monday",
+            "time": "07:00 PM - 08:00 PM"
+          },
+          {
+            "day": "Friday",
+            "time": "06:30 AM - 07:30 AM"
+          }
+        ],
+        "instructor": "Emily Johnson"
+      },
+      {
+        "id": 4,
+        "title": "Power Yoga",
+        "description": "An intense workout that will make you sweat and challenge your limits.",
+        "level": "Advanced",
+        "duration": "90 minutes",
+        "schedule": [
+          {
+            "day": "Wednesday",
+            "time": "07:30 PM - 09:00 PM"
+          },
+          {
+            "day": "Saturday",
+            "time": "09:00 AM - 10:30 AM"
+          }
+        ],
+        "instructor": "Michael Brown"
+      }
+    ]
+  }
+  
